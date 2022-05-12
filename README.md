@@ -20,14 +20,15 @@ https://github.com/SonJuyoung (개인)
 
 https://github.com/WhatToDoSBS/WhatToDo (팀 프로젝트)
 
+https://github.com/CykoProject (팀 프로젝트)
+
 ## Education ✏
 - 경북대학교 영어영문학 전공 졸업
 - 코리아IT아카데미 웹 개발자 양성 과정 수료 (2021.09 ~ 2022.03)
 - 대구AI-HUB WEB+AI 실무프로젝트 (2022. 03 ~ 2022. 04)
 
 ## Certification
-- 정보처리기사(2022, 필기)
+- 정보처리기사(2022)
 - 정보처리기능사
 - 스포츠경영관리사
-- SQL개발자(SQLD자격)
-- 워드프로세서2급
+- SQL개발자(SQLD)
